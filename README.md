@@ -1,5 +1,8 @@
 # construct
 
+[![Github Actions Workflow Status](https://github.com/bdreece/construct/actions/workflows/build.yml/badge.svg)](https://github.com/bdreece/construct/actions/workflows/build.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/bdreece/construct.svg)](https://pkg.go.dev/github.com/bdreece/construct)
+
 A generic library for implementing the functional options pattern in Go.
 
 ## Installation
